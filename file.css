@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background-color: black;
+}
+.title {
+    border: 8px dotted white;
+    font-size: 40px;
+    text-align: center;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.images img {
+    height: 500px;
+    width: 500px;
+}
+
+.image2{
+    display: flex;
+    justify-content: space-between;
+}
+.images2 img {
+    height: 150px;
+    width: 150px;
+}
+
